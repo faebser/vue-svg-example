@@ -1,4 +1,4 @@
-# iart
+# Vue js with svg example
 
 ## Project setup
 ```
